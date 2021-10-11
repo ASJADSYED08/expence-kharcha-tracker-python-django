@@ -39,7 +39,7 @@ pandas==1.2.0
 Pillow==8.1.0
 pipwin==0.5.0
 plyer==2.0.0
-PyAudio @ file:///C:/Users/ASJAD%20RIZVI/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
+# PyAudio @ file:///C:/Users/ASJAD%20RIZVI/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 PyAutoGUI==0.9.52
 pydub==0.24.1
 pygame==2.0.0
@@ -74,3 +74,4 @@ Werkzeug==1.0.1
 wikipedia==1.4.0
 wrapt==1.12.1
 xlrd==2.0.1
+PyAudio @ file:///C:/Users/ASJAD%20RIZVI/Downloads/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
